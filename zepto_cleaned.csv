@@ -1,0 +1,395 @@
+Order_ID,Delivery_Time,Order_Value,Items_Count,Distance_km,Delivery_Charge,Surge_Pricing,Time_Slot,Warehouse_Location,Rider_Rating,Customer_Rating,Inventory_Issue,Payment_Method,Order_Status,Delivery_Efficiency,Avg_Order_Value,Late_Delivery,Net_Revenue,Cancelled,Order_Size,Distance_Category
+1,43.0,1408,14.0,8.0,103.0,0,Morning,Central Hub,7.0,2.0,No,UPI,Delivered,0.18604651162790697,100.57142857142857,1,1305.0,0,High,Medium
+4,19.0,496,2.0,12.0,64.0,1,Morning,South Hub,4.0,4.0,Yes,UPI,Cancelled,0.631578947368421,248.0,0,432.0,1,Low,Far
+8,43.0,1554,6.0,7.0,56.0,0,Late Night,unknown,1.0,8.0,No,unknown,Delivered,0.16279069767441862,259.0,1,1498.0,0,High,Medium
+10,23.0,1408,5.0,12.0,25.0,1,Morning,South Hub,5.0,10.0,Yes,UPI,Cancelled,0.5217391304347826,281.6,1,1383.0,1,High,Far
+11,27.0,1069,15.0,9.0,113.0,0,Afternoon,North Hub,3.0,2.0,No,UPI,Delivered,0.3333333333333333,71.26666666666667,1,956.0,0,Medium,Medium
+14,28.0,1179,3.0,13.0,51.0,0,Late Night,North Hub,4.0,2.0,No,UPI,Delivered,0.4642857142857143,393.0,1,1128.0,0,Medium,Far
+16,40.0,130,17.0,14.0,53.0,0,Afternoon,South Hub,4.0,2.0,No,Card,Delivered,0.35,7.647058823529412,1,77.0,0,Low,Far
+18,28.0,846,3.0,14.0,60.0,0,Evening,West Hub,7.0,3.0,No,unknown,Delivered,0.5,282.0,1,786.0,0,Medium,Far
+20,26.0,187,18.0,12.0,20.0,0,Late Night,South Hub,5.0,3.0,unknown,UPI,Delivered,0.46153846153846156,10.38888888888889,1,167.0,0,Low,Far
+21,57.0,233,17.0,11.0,45.0,1,Late Night,unknown,4.0,3.0,No,COD,Delivered,0.19298245614035087,13.705882352941176,1,188.0,0,Low,Far
+22,6.0,1474,3.0,11.0,133.0,0,Evening,North Hub,2.0,5.0,Yes,UPI,Cancelled,1.8333333333333333,491.3333333333333,0,1341.0,1,High,Far
+23,28.0,1403,3.0,13.0,37.0,1,Afternoon,Central Hub,2.0,8.0,No,UPI,Delivered,0.4642857142857143,467.6666666666667,1,1366.0,0,High,Far
+25,34.0,1581,13.0,2.0,85.0,0,Late Night,East Hub,7.0,8.0,Yes,unknown,Delivered,0.058823529411764705,121.61538461538461,1,1496.0,0,High,Near
+30,16.0,1847,5.0,13.0,5.0,0,Late Night,unknown,3.0,5.0,No,unknown,Delivered,0.8125,369.4,0,1842.0,0,High,Far
+32,26.0,1523,11.0,5.0,7.0,1,unknown,East Hub,10.0,2.0,unknown,Card,Cancelled,0.19230769230769232,138.45454545454547,1,1516.0,1,High,Near
+33,48.0,254,9.0,1.0,107.0,1,unknown,South Hub,1.0,8.0,Yes,COD,Delivered,0.020833333333333332,28.22222222222222,1,147.0,0,Low,Near
+34,29.0,175,3.0,3.0,74.0,0,Afternoon,Central Hub,1.0,5.0,unknown,COD,Delivered,0.10344827586206896,58.333333333333336,1,101.0,0,Low,Near
+35,53.0,1820,9.0,7.0,76.0,1,Late Night,unknown,7.0,4.0,No,unknown,Delivered,0.1320754716981132,202.22222222222223,1,1744.0,0,High,Medium
+36,31.0,92,3.0,12.0,49.0,0,Late Night,South Hub,5.0,10.0,No,UPI,Delivered,0.3870967741935484,30.666666666666668,1,43.0,0,Low,Far
+40,19.0,810,9.0,8.0,15.0,0,Afternoon,North Hub,1.0,3.0,Yes,UPI,Delivered,0.42105263157894735,90.0,0,795.0,0,Medium,Medium
+41,51.0,1736,15.0,10.0,67.0,0,Afternoon,South Hub,5.0,5.0,Yes,Card,Cancelled,0.19607843137254902,115.73333333333333,1,1669.0,1,High,Medium
+43,48.0,897,5.0,8.0,47.0,0,Late Night,South Hub,4.0,2.0,No,unknown,Delivered,0.16666666666666666,179.4,1,850.0,0,Medium,Medium
+44,59.0,144,11.0,1.0,63.0,1,Late Night,South Hub,10.0,1.0,Yes,UPI,Delivered,0.01694915254237288,13.090909090909092,1,81.0,0,Low,Near
+47,7.0,1593,6.0,3.0,138.0,0,Late Night,South Hub,4.0,1.0,unknown,Card,Cancelled,0.42857142857142855,265.5,0,1455.0,1,High,Near
+48,41.0,949,8.0,1.0,100.0,1,Late Night,North Hub,2.0,1.0,unknown,UPI,Delivered,0.024390243902439025,118.625,1,849.0,0,Medium,Near
+49,55.0,409,5.0,4.0,88.0,0,Late Night,South Hub,1.0,2.0,unknown,UPI,Delivered,0.07272727272727272,81.8,1,321.0,0,Low,Near
+52,13.0,330,6.0,10.0,54.0,0,Morning,unknown,1.0,3.0,No,Card,Delivered,0.7692307692307693,55.0,0,276.0,0,Low,Medium
+53,43.0,1268,5.0,2.0,101.0,0,Morning,unknown,4.0,4.0,No,UPI,Delivered,0.046511627906976744,253.6,1,1167.0,0,Medium,Near
+56,29.0,716,5.0,14.0,3.0,0,Late Night,Central Hub,1.0,8.0,No,UPI,Delivered,0.4827586206896552,143.2,1,713.0,0,Medium,Far
+57,18.0,142,13.0,7.0,107.0,0,Afternoon,East Hub,7.0,1.0,No,COD,Cancelled,0.3888888888888889,10.923076923076923,0,35.0,1,Low,Medium
+58,54.0,721,17.0,2.0,114.0,0,Late Night,unknown,5.0,8.0,No,Card,Delivered,0.037037037037037035,42.411764705882355,1,607.0,0,Medium,Near
+61,30.0,1124,13.0,13.0,124.0,0,Evening,North Hub,4.0,3.0,No,UPI,Cancelled,0.43333333333333335,86.46153846153847,1,1000.0,1,Medium,Far
+62,57.0,1476,19.0,9.0,97.0,0,Evening,South Hub,4.0,10.0,Yes,UPI,Delivered,0.15789473684210525,77.6842105263158,1,1379.0,0,High,Medium
+67,11.0,731,13.0,14.0,7.0,1,Late Night,South Hub,10.0,10.0,No,unknown,Delivered,1.2727272727272727,56.23076923076923,0,724.0,0,Medium,Far
+68,48.0,1902,13.0,14.0,140.0,0,Late Night,South Hub,5.0,10.0,No,UPI,Cancelled,0.2916666666666667,146.30769230769232,1,1762.0,1,High,Far
+74,40.0,282,1.0,4.0,38.0,0,unknown,South Hub,1.0,10.0,unknown,UPI,Delivered,0.1,282.0,1,244.0,0,Low,Near
+76,44.0,395,9.0,4.0,83.0,1,Late Night,South Hub,5.0,2.0,No,UPI,Delivered,0.09090909090909091,43.888888888888886,1,312.0,0,Low,Near
+79,10.0,1151,13.0,5.0,92.0,0,Late Night,unknown,10.0,8.0,unknown,Card,Delivered,0.5,88.53846153846153,0,1059.0,0,Medium,Near
+84,33.0,843,7.0,6.0,35.0,0,Evening,North Hub,4.0,3.0,No,COD,Cancelled,0.18181818181818182,120.42857142857143,1,808.0,1,Medium,Medium
+85,22.0,298,5.0,14.0,100.0,0,Late Night,East Hub,4.0,4.0,No,UPI,Delivered,0.6363636363636364,59.6,1,198.0,0,Low,Far
+86,30.0,96,11.0,4.0,103.0,0,Evening,South Hub,2.0,2.0,unknown,Card,Delivered,0.13333333333333333,8.727272727272727,1,-7.0,0,Low,Near
+87,48.0,1194,13.0,13.0,65.0,0,Late Night,Central Hub,5.0,2.0,No,UPI,Delivered,0.2708333333333333,91.84615384615384,1,1129.0,0,Medium,Far
+89,14.0,288,10.0,7.0,90.0,0,Morning,West Hub,7.0,10.0,unknown,unknown,Cancelled,0.5,28.8,0,198.0,1,Low,Medium
+93,52.0,880,7.0,5.0,92.0,1,Late Night,West Hub,5.0,4.0,Yes,Card,Delivered,0.09615384615384616,125.71428571428571,1,788.0,0,Medium,Near
+95,12.0,1646,4.0,4.0,140.0,0,Late Night,West Hub,7.0,5.0,No,UPI,Delivered,0.3333333333333333,411.5,0,1506.0,0,High,Near
+99,44.0,1330,12.0,14.0,128.0,0,Evening,Central Hub,3.0,10.0,Yes,UPI,Delivered,0.3181818181818182,110.83333333333333,1,1202.0,0,Medium,Far
+100,25.0,57,7.0,13.0,88.0,0,Late Night,West Hub,3.0,8.0,No,UPI,Delivered,0.52,8.142857142857142,1,-31.0,0,Low,Far
+102,49.0,1940,13.0,6.0,70.0,0,unknown,South Hub,7.0,5.0,unknown,COD,Cancelled,0.12244897959183673,149.23076923076923,1,1870.0,1,High,Medium
+106,28.0,352,17.0,4.0,93.0,0,Morning,unknown,1.0,8.0,No,Card,Delivered,0.14285714285714285,20.705882352941178,1,259.0,0,Low,Near
+108,29.0,105,2.0,1.0,112.0,0,Afternoon,South Hub,4.0,5.0,Yes,COD,Delivered,0.034482758620689655,52.5,1,-7.0,0,Low,Near
+112,19.0,77,6.0,11.0,16.0,0,Evening,East Hub,7.0,2.0,unknown,UPI,Delivered,0.5789473684210527,12.833333333333334,0,61.0,0,Low,Far
+114,5.0,1289,7.0,1.0,115.0,1,Morning,South Hub,5.0,8.0,Yes,UPI,Delivered,0.2,184.14285714285714,0,1174.0,0,Medium,Near
+116,11.0,414,9.0,6.0,90.0,0,Late Night,North Hub,7.0,5.0,unknown,UPI,Delivered,0.5454545454545454,46.0,0,324.0,0,Low,Medium
+117,13.0,715,2.0,4.0,81.0,0,Evening,North Hub,1.0,3.0,unknown,Card,Cancelled,0.3076923076923077,357.5,0,634.0,1,Medium,Near
+124,55.0,1696,4.0,11.0,115.0,1,Late Night,East Hub,5.0,8.0,Yes,UPI,Cancelled,0.2,424.0,1,1581.0,1,High,Far
+125,21.0,968,17.0,7.0,86.0,1,Late Night,South Hub,4.0,8.0,No,unknown,Delivered,0.3333333333333333,56.94117647058823,1,882.0,0,Medium,Medium
+126,12.0,799,12.0,9.0,9.0,1,Evening,South Hub,10.0,2.0,No,UPI,Delivered,0.75,66.58333333333333,0,790.0,0,Medium,Medium
+129,37.0,1581,1.0,10.0,104.0,0,unknown,East Hub,3.0,3.0,Yes,UPI,Cancelled,0.2702702702702703,1581.0,1,1477.0,1,High,Medium
+135,32.0,1088,4.0,13.0,67.0,0,Late Night,Central Hub,2.0,3.0,No,Card,Cancelled,0.40625,272.0,1,1021.0,1,Medium,Far
+136,11.0,1265,3.0,6.0,138.0,0,unknown,South Hub,1.0,8.0,Yes,UPI,Delivered,0.5454545454545454,421.6666666666667,0,1127.0,0,Medium,Medium
+138,12.0,534,12.0,13.0,148.0,0,Morning,South Hub,3.0,10.0,unknown,UPI,Delivered,1.0833333333333333,44.5,0,386.0,0,Low,Far
+139,16.0,77,7.0,10.0,98.0,0,Evening,West Hub,7.0,4.0,No,COD,Cancelled,0.625,11.0,0,-21.0,1,Low,Medium
+140,38.0,763,11.0,3.0,75.0,0,Late Night,North Hub,1.0,3.0,unknown,unknown,Delivered,0.07894736842105263,69.36363636363636,1,688.0,0,Medium,Near
+141,37.0,1112,1.0,14.0,25.0,1,Evening,West Hub,1.0,3.0,Yes,UPI,Delivered,0.3783783783783784,1112.0,1,1087.0,0,Medium,Far
+143,59.0,1304,15.0,5.0,146.0,0,Evening,unknown,10.0,1.0,No,COD,Cancelled,0.0847457627118644,86.93333333333334,1,1158.0,1,Medium,Near
+146,41.0,175,11.0,5.0,70.0,0,Late Night,North Hub,3.0,3.0,No,Card,Delivered,0.12195121951219512,15.909090909090908,1,105.0,0,Low,Near
+147,39.0,861,2.0,4.0,39.0,0,unknown,East Hub,4.0,5.0,No,unknown,Delivered,0.10256410256410256,430.5,1,822.0,0,Medium,Near
+149,44.0,194,2.0,4.0,148.0,0,Morning,unknown,5.0,2.0,No,UPI,Delivered,0.09090909090909091,97.0,1,46.0,0,Low,Near
+150,26.0,1598,4.0,7.0,131.0,0,Late Night,South Hub,1.0,2.0,No,COD,Cancelled,0.2692307692307692,399.5,1,1467.0,1,High,Medium
+154,39.0,1467,9.0,1.0,142.0,0,Late Night,Central Hub,2.0,2.0,unknown,UPI,Delivered,0.02564102564102564,163.0,1,1325.0,0,High,Near
+156,51.0,282,15.0,6.0,108.0,0,unknown,unknown,7.0,2.0,Yes,UPI,Cancelled,0.11764705882352941,18.8,1,174.0,1,Low,Medium
+157,18.0,158,11.0,9.0,135.0,0,Evening,West Hub,1.0,1.0,No,COD,Delivered,0.5,14.363636363636363,0,23.0,0,Low,Medium
+159,5.0,160,2.0,12.0,111.0,1,unknown,South Hub,10.0,8.0,No,UPI,Delivered,2.4,80.0,0,49.0,0,Low,Far
+161,30.0,160,14.0,12.0,111.0,0,Morning,South Hub,2.0,5.0,unknown,UPI,Delivered,0.4,11.428571428571429,1,49.0,0,Low,Far
+163,18.0,83,11.0,7.0,45.0,0,Late Night,South Hub,4.0,1.0,No,UPI,Cancelled,0.3888888888888889,7.545454545454546,0,38.0,1,Low,Medium
+169,30.0,1627,16.0,10.0,23.0,0,Evening,South Hub,3.0,1.0,unknown,UPI,Cancelled,0.3333333333333333,101.6875,1,1604.0,1,High,Medium
+170,46.0,474,5.0,13.0,26.0,0,Late Night,East Hub,3.0,10.0,Yes,UPI,Delivered,0.2826086956521739,94.8,1,448.0,0,Low,Far
+172,55.0,1591,6.0,12.0,23.0,0,Afternoon,South Hub,5.0,1.0,Yes,unknown,Delivered,0.21818181818181817,265.1666666666667,1,1568.0,0,High,Far
+173,36.0,741,19.0,9.0,23.0,1,Evening,South Hub,4.0,10.0,No,UPI,Delivered,0.25,39.0,1,718.0,0,Medium,Medium
+175,53.0,1393,3.0,4.0,66.0,0,Evening,North Hub,4.0,2.0,No,unknown,Delivered,0.07547169811320754,464.3333333333333,1,1327.0,0,High,Near
+179,34.0,926,2.0,4.0,108.0,1,Late Night,South Hub,7.0,3.0,No,Card,Delivered,0.11764705882352941,463.0,1,818.0,0,Medium,Near
+182,43.0,1362,12.0,7.0,61.0,0,Late Night,South Hub,7.0,5.0,unknown,UPI,Cancelled,0.16279069767441862,113.5,1,1301.0,1,High,Medium
+189,36.0,673,17.0,7.0,134.0,0,Late Night,South Hub,5.0,10.0,No,UPI,Delivered,0.19444444444444445,39.588235294117645,1,539.0,0,Low,Medium
+192,26.0,892,15.0,14.0,60.0,0,Evening,Central Hub,7.0,10.0,No,Card,Delivered,0.5384615384615384,59.46666666666667,1,832.0,0,Medium,Far
+193,32.0,1519,14.0,5.0,2.0,0,Late Night,South Hub,2.0,8.0,No,UPI,Cancelled,0.15625,108.5,1,1517.0,1,High,Near
+200,32.0,808,3.0,9.0,86.0,0,Morning,South Hub,7.0,10.0,No,UPI,Cancelled,0.28125,269.3333333333333,1,722.0,1,Medium,Medium
+203,48.0,592,15.0,4.0,29.0,1,Late Night,South Hub,2.0,1.0,unknown,COD,Delivered,0.08333333333333333,39.46666666666667,1,563.0,0,Low,Near
+210,29.0,1395,9.0,9.0,117.0,0,Afternoon,West Hub,2.0,5.0,unknown,Card,Delivered,0.3103448275862069,155.0,1,1278.0,0,High,Medium
+211,43.0,517,6.0,7.0,38.0,0,Late Night,unknown,5.0,5.0,No,COD,Delivered,0.16279069767441862,86.16666666666667,1,479.0,0,Low,Medium
+217,56.0,167,11.0,6.0,58.0,0,unknown,South Hub,3.0,4.0,Yes,UPI,Delivered,0.10714285714285714,15.181818181818182,1,109.0,0,Low,Medium
+219,45.0,1679,17.0,1.0,31.0,0,unknown,South Hub,1.0,10.0,unknown,UPI,Cancelled,0.022222222222222223,98.76470588235294,1,1648.0,1,High,Near
+225,13.0,896,15.0,10.0,47.0,1,Late Night,North Hub,10.0,1.0,Yes,UPI,Delivered,0.7692307692307693,59.733333333333334,0,849.0,0,Medium,Medium
+226,41.0,764,6.0,2.0,110.0,0,Morning,North Hub,1.0,1.0,Yes,UPI,Cancelled,0.04878048780487805,127.33333333333333,1,654.0,1,Medium,Near
+229,46.0,1508,1.0,7.0,100.0,0,Late Night,South Hub,3.0,4.0,No,Card,Delivered,0.15217391304347827,1508.0,1,1408.0,0,High,Medium
+230,48.0,222,6.0,12.0,101.0,0,Evening,South Hub,5.0,8.0,No,UPI,Delivered,0.25,37.0,1,121.0,0,Low,Far
+232,19.0,1718,8.0,8.0,50.0,0,Late Night,Central Hub,3.0,8.0,Yes,UPI,Delivered,0.42105263157894735,214.75,0,1668.0,0,High,Medium
+233,58.0,375,11.0,6.0,35.0,0,Afternoon,South Hub,5.0,10.0,unknown,UPI,Delivered,0.10344827586206896,34.09090909090909,1,340.0,0,Low,Medium
+234,36.0,1483,19.0,10.0,80.0,1,Evening,East Hub,10.0,10.0,unknown,UPI,Cancelled,0.2777777777777778,78.05263157894737,1,1403.0,1,High,Medium
+238,56.0,773,14.0,4.0,14.0,0,unknown,South Hub,3.0,4.0,No,Card,Delivered,0.07142857142857142,55.214285714285715,1,759.0,0,Medium,Near
+239,53.0,274,15.0,14.0,95.0,1,Afternoon,South Hub,3.0,10.0,Yes,Card,Cancelled,0.2641509433962264,18.266666666666666,1,179.0,1,Low,Far
+243,16.0,608,10.0,14.0,121.0,0,Afternoon,North Hub,10.0,8.0,No,UPI,Cancelled,0.875,60.8,0,487.0,1,Low,Far
+245,6.0,139,18.0,8.0,56.0,0,Late Night,unknown,3.0,4.0,Yes,Card,Delivered,1.3333333333333333,7.722222222222222,0,83.0,0,Low,Medium
+248,41.0,1623,1.0,3.0,140.0,0,Morning,South Hub,10.0,10.0,Yes,unknown,Cancelled,0.07317073170731707,1623.0,1,1483.0,1,High,Near
+249,53.0,1878,1.0,8.0,69.0,1,Late Night,South Hub,4.0,1.0,No,UPI,Delivered,0.1509433962264151,1878.0,1,1809.0,0,High,Medium
+251,21.0,188,13.0,1.0,83.0,1,Late Night,East Hub,1.0,8.0,No,UPI,Delivered,0.047619047619047616,14.461538461538462,1,105.0,0,Low,Near
+252,53.0,1584,1.0,10.0,51.0,0,Evening,South Hub,4.0,8.0,unknown,UPI,Delivered,0.18867924528301888,1584.0,1,1533.0,0,High,Medium
+253,6.0,1941,13.0,3.0,2.0,0,Late Night,South Hub,10.0,8.0,No,UPI,Cancelled,0.5,149.30769230769232,0,1939.0,1,High,Near
+258,41.0,739,7.0,5.0,111.0,0,Late Night,East Hub,2.0,8.0,No,unknown,Cancelled,0.12195121951219512,105.57142857142857,1,628.0,1,Medium,Near
+260,37.0,310,18.0,12.0,64.0,1,unknown,South Hub,4.0,4.0,Yes,Card,Cancelled,0.32432432432432434,17.22222222222222,1,246.0,1,Low,Far
+262,23.0,1723,2.0,8.0,14.0,0,Late Night,South Hub,4.0,10.0,No,unknown,Delivered,0.34782608695652173,861.5,1,1709.0,0,High,Medium
+264,57.0,947,12.0,4.0,31.0,0,Evening,Central Hub,7.0,2.0,No,Card,Delivered,0.07017543859649122,78.91666666666667,1,916.0,0,Medium,Near
+265,48.0,62,17.0,5.0,95.0,0,Late Night,South Hub,3.0,2.0,No,UPI,Delivered,0.10416666666666667,3.6470588235294117,1,-33.0,0,Low,Near
+266,30.0,1241,8.0,8.0,127.0,0,Afternoon,North Hub,3.0,10.0,No,UPI,Delivered,0.26666666666666666,155.125,1,1114.0,0,Medium,Medium
+267,36.0,1715,11.0,9.0,145.0,0,Evening,West Hub,10.0,1.0,No,UPI,Cancelled,0.25,155.9090909090909,1,1570.0,1,High,Medium
+271,8.0,1686,6.0,14.0,115.0,0,Afternoon,unknown,7.0,8.0,Yes,UPI,Delivered,1.75,281.0,0,1571.0,0,High,Far
+275,21.0,960,18.0,6.0,13.0,0,Late Night,South Hub,10.0,5.0,No,UPI,Cancelled,0.2857142857142857,53.333333333333336,1,947.0,1,Medium,Medium
+276,42.0,1993,12.0,12.0,131.0,0,Morning,unknown,1.0,5.0,unknown,COD,Delivered,0.2857142857142857,166.08333333333334,1,1862.0,0,High,Far
+278,9.0,1492,8.0,7.0,82.0,0,Morning,North Hub,10.0,5.0,No,UPI,Delivered,0.7777777777777778,186.5,0,1410.0,0,High,Medium
+281,10.0,1890,15.0,13.0,82.0,0,Afternoon,West Hub,3.0,3.0,No,Card,Delivered,1.3,126.0,0,1808.0,0,High,Far
+282,26.0,1654,7.0,3.0,26.0,0,Morning,North Hub,10.0,8.0,Yes,COD,Cancelled,0.11538461538461539,236.28571428571428,1,1628.0,1,High,Near
+285,20.0,383,16.0,8.0,12.0,0,Late Night,North Hub,5.0,3.0,No,UPI,Delivered,0.4,23.9375,0,371.0,0,Low,Medium
+286,37.0,1958,4.0,6.0,63.0,0,Evening,East Hub,10.0,8.0,unknown,UPI,Delivered,0.16216216216216217,489.5,1,1895.0,0,High,Medium
+287,13.0,425,6.0,1.0,146.0,1,Late Night,unknown,4.0,5.0,unknown,UPI,Delivered,0.07692307692307693,70.83333333333333,0,279.0,0,Low,Near
+288,10.0,1532,3.0,1.0,79.0,0,Morning,South Hub,2.0,8.0,Yes,COD,Cancelled,0.1,510.6666666666667,0,1453.0,1,High,Near
+289,20.0,1210,9.0,8.0,122.0,1,Morning,North Hub,3.0,2.0,unknown,UPI,Delivered,0.4,134.44444444444446,0,1088.0,0,Medium,Medium
+292,24.0,562,11.0,11.0,147.0,1,Late Night,North Hub,2.0,1.0,No,Card,Delivered,0.4583333333333333,51.09090909090909,1,415.0,0,Low,Far
+295,30.0,967,12.0,6.0,1.0,1,Morning,South Hub,4.0,1.0,No,UPI,Cancelled,0.2,80.58333333333333,1,966.0,1,Medium,Medium
+297,23.0,1905,13.0,9.0,21.0,0,Evening,South Hub,2.0,8.0,No,Card,Delivered,0.391304347826087,146.53846153846155,1,1884.0,0,High,Medium
+298,24.0,1422,19.0,12.0,114.0,0,Late Night,South Hub,2.0,1.0,No,UPI,Delivered,0.5,74.84210526315789,1,1308.0,0,High,Far
+300,11.0,1852,14.0,14.0,71.0,0,Late Night,West Hub,7.0,4.0,No,COD,Cancelled,1.2727272727272727,132.28571428571428,0,1781.0,1,High,Far
+302,45.0,1302,13.0,1.0,118.0,0,Late Night,South Hub,1.0,3.0,Yes,UPI,Delivered,0.022222222222222223,100.15384615384616,1,1184.0,0,Medium,Near
+312,29.0,127,9.0,2.0,74.0,0,Evening,East Hub,10.0,1.0,Yes,Card,Delivered,0.06896551724137931,14.11111111111111,1,53.0,0,Low,Near
+314,27.0,623,10.0,3.0,26.0,0,Evening,West Hub,1.0,8.0,unknown,UPI,Delivered,0.1111111111111111,62.3,1,597.0,0,Low,Near
+316,34.0,650,3.0,6.0,144.0,0,Morning,North Hub,1.0,8.0,No,UPI,Delivered,0.17647058823529413,216.66666666666666,1,506.0,0,Low,Medium
+319,11.0,138,7.0,12.0,4.0,0,Late Night,North Hub,5.0,4.0,Yes,UPI,Delivered,1.0909090909090908,19.714285714285715,0,134.0,0,Low,Far
+320,20.0,451,12.0,11.0,56.0,1,unknown,West Hub,7.0,3.0,No,COD,Delivered,0.55,37.583333333333336,0,395.0,0,Low,Far
+321,30.0,345,17.0,2.0,77.0,0,Evening,South Hub,2.0,2.0,No,COD,Delivered,0.06666666666666667,20.294117647058822,1,268.0,0,Low,Near
+326,6.0,849,12.0,2.0,32.0,0,Morning,South Hub,3.0,5.0,No,UPI,Cancelled,0.3333333333333333,70.75,0,817.0,1,Medium,Near
+328,52.0,1710,18.0,12.0,49.0,0,Afternoon,South Hub,7.0,10.0,Yes,UPI,Cancelled,0.23076923076923078,95.0,1,1661.0,1,High,Far
+332,36.0,624,4.0,2.0,46.0,1,Late Night,West Hub,3.0,10.0,unknown,COD,Delivered,0.05555555555555555,156.0,1,578.0,0,Low,Near
+336,39.0,194,2.0,11.0,134.0,0,Late Night,East Hub,5.0,4.0,Yes,UPI,Cancelled,0.28205128205128205,97.0,1,60.0,1,Low,Far
+343,58.0,1112,19.0,3.0,28.0,1,unknown,North Hub,5.0,4.0,No,Card,Delivered,0.05172413793103448,58.526315789473685,1,1084.0,0,Medium,Near
+346,28.0,628,3.0,2.0,62.0,0,Afternoon,unknown,7.0,5.0,unknown,UPI,Delivered,0.07142857142857142,209.33333333333334,1,566.0,0,Low,Near
+347,56.0,440,13.0,2.0,104.0,1,Afternoon,East Hub,2.0,2.0,No,UPI,Cancelled,0.03571428571428571,33.84615384615385,1,336.0,1,Low,Near
+348,15.0,1252,18.0,3.0,56.0,0,unknown,North Hub,5.0,2.0,No,COD,Delivered,0.2,69.55555555555556,0,1196.0,0,Medium,Near
+353,44.0,1696,3.0,9.0,5.0,0,Evening,South Hub,7.0,2.0,No,UPI,Cancelled,0.20454545454545456,565.3333333333334,1,1691.0,1,High,Medium
+354,24.0,1742,8.0,1.0,57.0,0,unknown,North Hub,4.0,2.0,Yes,UPI,Delivered,0.041666666666666664,217.75,1,1685.0,0,High,Near
+355,39.0,1362,4.0,8.0,68.0,1,Afternoon,South Hub,3.0,8.0,unknown,UPI,Cancelled,0.20512820512820512,340.5,1,1294.0,1,High,Medium
+356,52.0,527,16.0,3.0,61.0,0,Late Night,Central Hub,10.0,1.0,unknown,UPI,Delivered,0.057692307692307696,32.9375,1,466.0,0,Low,Near
+365,58.0,1046,13.0,12.0,123.0,0,Late Night,Central Hub,4.0,4.0,Yes,UPI,Delivered,0.20689655172413793,80.46153846153847,1,923.0,0,Medium,Far
+367,20.0,1000,15.0,7.0,73.0,0,Evening,South Hub,1.0,1.0,No,UPI,Delivered,0.35,66.66666666666667,0,927.0,0,Medium,Medium
+368,45.0,338,14.0,9.0,21.0,0,Morning,South Hub,3.0,1.0,Yes,UPI,Delivered,0.2,24.142857142857142,1,317.0,0,Low,Medium
+369,40.0,1327,7.0,3.0,38.0,0,Late Night,Central Hub,3.0,3.0,No,COD,Delivered,0.075,189.57142857142858,1,1289.0,0,Medium,Near
+374,25.0,566,17.0,6.0,146.0,0,Evening,unknown,4.0,8.0,unknown,unknown,Delivered,0.24,33.294117647058826,1,420.0,0,Low,Medium
+378,12.0,1191,5.0,14.0,52.0,0,Late Night,East Hub,2.0,2.0,Yes,UPI,Delivered,1.1666666666666667,238.2,0,1139.0,0,Medium,Far
+379,11.0,855,1.0,4.0,33.0,0,unknown,South Hub,5.0,4.0,No,UPI,Delivered,0.36363636363636365,855.0,0,822.0,0,Medium,Near
+381,21.0,1232,12.0,3.0,66.0,1,Late Night,West Hub,2.0,1.0,unknown,UPI,Delivered,0.14285714285714285,102.66666666666667,1,1166.0,0,Medium,Near
+382,37.0,864,4.0,14.0,133.0,1,Afternoon,unknown,2.0,10.0,unknown,UPI,Cancelled,0.3783783783783784,216.0,1,731.0,1,Medium,Far
+385,55.0,265,11.0,14.0,72.0,0,Afternoon,North Hub,4.0,5.0,No,Card,Cancelled,0.2545454545454545,24.09090909090909,1,193.0,1,Low,Far
+388,26.0,64,14.0,14.0,69.0,0,unknown,unknown,1.0,3.0,No,UPI,Delivered,0.5384615384615384,4.571428571428571,1,-5.0,0,Low,Far
+390,34.0,1721,10.0,10.0,58.0,0,Morning,South Hub,1.0,5.0,No,COD,Delivered,0.29411764705882354,172.1,1,1663.0,0,High,Medium
+391,42.0,1334,10.0,9.0,1.0,0,Late Night,South Hub,3.0,3.0,No,Card,Delivered,0.21428571428571427,133.4,1,1333.0,0,Medium,Medium
+392,42.0,1230,12.0,13.0,64.0,1,Evening,South Hub,5.0,3.0,No,Card,Cancelled,0.30952380952380953,102.5,1,1166.0,1,Medium,Far
+395,58.0,893,5.0,9.0,52.0,0,Late Night,East Hub,10.0,2.0,Yes,Card,Cancelled,0.15517241379310345,178.6,1,841.0,1,Medium,Medium
+397,31.0,179,8.0,14.0,58.0,0,Afternoon,South Hub,1.0,8.0,No,UPI,Delivered,0.45161290322580644,22.375,1,121.0,0,Low,Far
+398,31.0,1484,11.0,6.0,149.0,0,Late Night,East Hub,5.0,1.0,Yes,UPI,Delivered,0.1935483870967742,134.9090909090909,1,1335.0,0,High,Medium
+399,38.0,144,12.0,4.0,47.0,0,Morning,South Hub,3.0,1.0,No,UPI,Cancelled,0.10526315789473684,12.0,1,97.0,1,Low,Near
+400,25.0,676,1.0,8.0,148.0,1,Afternoon,South Hub,4.0,8.0,No,unknown,Cancelled,0.32,676.0,1,528.0,1,Low,Medium
+402,37.0,1365,11.0,9.0,21.0,0,Late Night,unknown,7.0,1.0,unknown,UPI,Delivered,0.24324324324324326,124.0909090909091,1,1344.0,0,High,Medium
+403,32.0,843,5.0,1.0,99.0,0,Afternoon,Central Hub,5.0,1.0,No,UPI,Cancelled,0.03125,168.6,1,744.0,1,Medium,Near
+404,51.0,1884,15.0,14.0,97.0,0,Late Night,South Hub,2.0,4.0,Yes,UPI,Delivered,0.27450980392156865,125.6,1,1787.0,0,High,Far
+409,8.0,1327,17.0,9.0,67.0,0,unknown,South Hub,10.0,8.0,Yes,UPI,Delivered,1.125,78.05882352941177,0,1260.0,0,Medium,Medium
+411,53.0,921,15.0,4.0,48.0,1,Late Night,West Hub,1.0,8.0,unknown,unknown,Delivered,0.07547169811320754,61.4,1,873.0,0,Medium,Near
+412,21.0,599,15.0,8.0,136.0,0,Late Night,East Hub,5.0,1.0,No,UPI,Delivered,0.38095238095238093,39.93333333333333,1,463.0,0,Low,Medium
+413,48.0,1207,6.0,2.0,82.0,0,Late Night,South Hub,7.0,8.0,No,COD,Delivered,0.041666666666666664,201.16666666666666,1,1125.0,0,Medium,Near
+416,33.0,864,18.0,9.0,72.0,0,Morning,East Hub,10.0,10.0,No,Card,Delivered,0.2727272727272727,48.0,1,792.0,0,Medium,Medium
+420,39.0,445,5.0,12.0,5.0,0,unknown,South Hub,10.0,4.0,Yes,Card,Cancelled,0.3076923076923077,89.0,1,440.0,1,Low,Far
+422,41.0,190,1.0,11.0,73.0,0,Afternoon,East Hub,10.0,8.0,No,COD,Delivered,0.2682926829268293,190.0,1,117.0,0,Low,Far
+423,28.0,1689,3.0,14.0,113.0,0,unknown,unknown,2.0,3.0,No,UPI,Delivered,0.5,563.0,1,1576.0,0,High,Far
+427,57.0,1042,5.0,5.0,126.0,1,Afternoon,East Hub,4.0,1.0,unknown,unknown,Delivered,0.08771929824561403,208.4,1,916.0,0,Medium,Near
+428,35.0,1696,1.0,3.0,110.0,1,unknown,North Hub,4.0,2.0,No,COD,Cancelled,0.08571428571428572,1696.0,1,1586.0,1,High,Near
+430,37.0,877,19.0,1.0,131.0,0,Evening,unknown,5.0,2.0,No,UPI,Delivered,0.02702702702702703,46.1578947368421,1,746.0,0,Medium,Near
+433,36.0,1053,10.0,4.0,72.0,0,Late Night,South Hub,7.0,2.0,No,COD,Delivered,0.1111111111111111,105.3,1,981.0,0,Medium,Near
+438,29.0,937,2.0,8.0,120.0,0,Late Night,South Hub,5.0,5.0,unknown,UPI,Cancelled,0.27586206896551724,468.5,1,817.0,1,Medium,Medium
+439,46.0,1878,18.0,13.0,40.0,0,unknown,East Hub,1.0,1.0,No,Card,Cancelled,0.2826086956521739,104.33333333333333,1,1838.0,1,High,Far
+444,44.0,653,12.0,14.0,46.0,1,Late Night,South Hub,3.0,10.0,Yes,UPI,Cancelled,0.3181818181818182,54.416666666666664,1,607.0,1,Low,Far
+450,26.0,1102,18.0,4.0,39.0,0,unknown,South Hub,4.0,8.0,unknown,COD,Delivered,0.15384615384615385,61.22222222222222,1,1063.0,0,Medium,Near
+452,6.0,1369,8.0,4.0,61.0,1,Morning,South Hub,2.0,8.0,unknown,UPI,Delivered,0.6666666666666666,171.125,0,1308.0,0,High,Near
+455,6.0,828,1.0,3.0,15.0,0,unknown,Central Hub,5.0,8.0,No,UPI,Delivered,0.5,828.0,0,813.0,0,Medium,Near
+456,30.0,1480,8.0,12.0,81.0,0,unknown,unknown,1.0,2.0,No,Card,Cancelled,0.4,185.0,1,1399.0,1,High,Far
+457,21.0,1842,6.0,2.0,93.0,0,Morning,Central Hub,7.0,3.0,unknown,UPI,Delivered,0.09523809523809523,307.0,1,1749.0,0,High,Near
+458,44.0,863,5.0,2.0,47.0,1,Late Night,South Hub,4.0,4.0,No,UPI,Delivered,0.045454545454545456,172.6,1,816.0,0,Medium,Near
+466,46.0,874,18.0,12.0,130.0,0,Afternoon,Central Hub,2.0,1.0,Yes,COD,Delivered,0.2608695652173913,48.55555555555556,1,744.0,0,Medium,Far
+467,59.0,1074,17.0,6.0,101.0,0,Evening,South Hub,7.0,1.0,No,UPI,Delivered,0.1016949152542373,63.1764705882353,1,973.0,0,Medium,Medium
+468,30.0,1904,8.0,8.0,64.0,1,Late Night,East Hub,2.0,3.0,No,Card,Cancelled,0.26666666666666666,238.0,1,1840.0,1,High,Medium
+470,54.0,420,8.0,1.0,90.0,0,Morning,unknown,5.0,2.0,No,COD,Delivered,0.018518518518518517,52.5,1,330.0,0,Low,Near
+471,29.0,985,17.0,13.0,7.0,0,Afternoon,unknown,4.0,1.0,No,UPI,Delivered,0.4482758620689655,57.94117647058823,1,978.0,0,Medium,Far
+473,17.0,710,8.0,3.0,133.0,0,Morning,South Hub,10.0,5.0,No,UPI,Delivered,0.17647058823529413,88.75,0,577.0,0,Medium,Near
+475,11.0,1018,4.0,14.0,88.0,1,Late Night,unknown,1.0,1.0,unknown,UPI,Cancelled,1.2727272727272727,254.5,0,930.0,1,Medium,Far
+478,49.0,251,19.0,13.0,27.0,0,Late Night,East Hub,1.0,2.0,No,UPI,Delivered,0.2653061224489796,13.210526315789474,1,224.0,0,Low,Far
+480,5.0,362,14.0,13.0,36.0,1,Late Night,unknown,4.0,1.0,No,UPI,Delivered,2.6,25.857142857142858,0,326.0,0,Low,Far
+483,20.0,986,5.0,14.0,55.0,0,Late Night,Central Hub,7.0,5.0,Yes,Card,Delivered,0.7,197.2,0,931.0,0,Medium,Far
+488,19.0,1675,9.0,7.0,122.0,0,Late Night,Central Hub,3.0,2.0,No,UPI,Delivered,0.3684210526315789,186.11111111111111,0,1553.0,0,High,Medium
+491,6.0,435,16.0,11.0,36.0,0,Late Night,Central Hub,10.0,5.0,No,COD,Cancelled,1.8333333333333333,27.1875,0,399.0,1,Low,Far
+492,36.0,1976,13.0,9.0,78.0,0,Late Night,West Hub,1.0,4.0,No,COD,Delivered,0.25,152.0,1,1898.0,0,High,Medium
+493,27.0,1283,9.0,9.0,91.0,0,Afternoon,Central Hub,3.0,4.0,No,UPI,Delivered,0.3333333333333333,142.55555555555554,1,1192.0,0,Medium,Medium
+496,29.0,396,9.0,9.0,62.0,0,Morning,South Hub,2.0,5.0,Yes,UPI,Cancelled,0.3103448275862069,44.0,1,334.0,1,Low,Medium
+498,26.0,689,4.0,7.0,138.0,1,Evening,West Hub,3.0,5.0,Yes,unknown,Delivered,0.2692307692307692,172.25,1,551.0,0,Low,Medium
+501,26.0,925,14.0,13.0,60.0,0,Late Night,South Hub,3.0,8.0,unknown,COD,Delivered,0.5,66.07142857142857,1,865.0,0,Medium,Far
+502,53.0,812,4.0,11.0,106.0,1,Late Night,Central Hub,2.0,8.0,Yes,unknown,Delivered,0.20754716981132076,203.0,1,706.0,0,Medium,Far
+503,56.0,1252,6.0,14.0,53.0,1,Morning,South Hub,2.0,4.0,No,UPI,Cancelled,0.25,208.66666666666666,1,1199.0,1,Medium,Far
+504,46.0,1255,19.0,11.0,87.0,0,Late Night,West Hub,7.0,1.0,Yes,COD,Delivered,0.2391304347826087,66.05263157894737,1,1168.0,0,Medium,Far
+506,19.0,74,2.0,14.0,128.0,1,Morning,West Hub,2.0,4.0,Yes,UPI,Delivered,0.7368421052631579,37.0,0,-54.0,0,Low,Far
+507,58.0,1253,18.0,13.0,54.0,0,Afternoon,West Hub,7.0,1.0,unknown,Card,Delivered,0.22413793103448276,69.61111111111111,1,1199.0,0,Medium,Far
+508,47.0,759,13.0,1.0,2.0,1,Evening,North Hub,7.0,5.0,No,UPI,Delivered,0.02127659574468085,58.38461538461539,1,757.0,0,Medium,Near
+509,41.0,1574,9.0,8.0,120.0,1,Afternoon,South Hub,7.0,10.0,Yes,COD,Delivered,0.1951219512195122,174.88888888888889,1,1454.0,0,High,Medium
+510,37.0,1929,19.0,12.0,128.0,0,Late Night,Central Hub,3.0,4.0,Yes,UPI,Delivered,0.32432432432432434,101.52631578947368,1,1801.0,0,High,Far
+511,12.0,1234,13.0,12.0,101.0,0,Late Night,West Hub,7.0,10.0,unknown,UPI,Delivered,1.0,94.92307692307692,0,1133.0,0,Medium,Far
+512,57.0,226,11.0,8.0,37.0,1,unknown,unknown,1.0,10.0,Yes,COD,Cancelled,0.14035087719298245,20.545454545454547,1,189.0,1,Low,Medium
+513,48.0,334,1.0,8.0,84.0,1,unknown,North Hub,1.0,3.0,No,unknown,Delivered,0.16666666666666666,334.0,1,250.0,0,Low,Medium
+517,8.0,715,1.0,1.0,108.0,1,Late Night,West Hub,7.0,2.0,No,unknown,Cancelled,0.125,715.0,0,607.0,1,Medium,Near
+519,49.0,1955,7.0,7.0,83.0,0,Afternoon,Central Hub,4.0,2.0,unknown,UPI,Cancelled,0.14285714285714285,279.2857142857143,1,1872.0,1,High,Medium
+522,34.0,1016,19.0,14.0,68.0,0,unknown,South Hub,4.0,1.0,No,COD,Delivered,0.4117647058823529,53.473684210526315,1,948.0,0,Medium,Far
+523,51.0,898,1.0,13.0,128.0,0,Afternoon,South Hub,1.0,5.0,Yes,UPI,Delivered,0.2549019607843137,898.0,1,770.0,0,Medium,Far
+529,17.0,391,11.0,2.0,60.0,0,Evening,unknown,7.0,3.0,Yes,Card,Delivered,0.11764705882352941,35.54545454545455,0,331.0,0,Low,Near
+531,46.0,1136,8.0,1.0,121.0,0,unknown,East Hub,3.0,10.0,No,UPI,Delivered,0.021739130434782608,142.0,1,1015.0,0,Medium,Near
+532,34.0,1774,14.0,4.0,51.0,0,Afternoon,unknown,1.0,1.0,No,UPI,Delivered,0.11764705882352941,126.71428571428571,1,1723.0,0,High,Near
+536,23.0,1842,14.0,8.0,31.0,0,unknown,South Hub,10.0,4.0,unknown,Card,Delivered,0.34782608695652173,131.57142857142858,1,1811.0,0,High,Medium
+541,41.0,484,16.0,9.0,109.0,0,Evening,North Hub,4.0,4.0,No,unknown,Cancelled,0.21951219512195122,30.25,1,375.0,1,Low,Medium
+542,30.0,1964,2.0,7.0,105.0,0,Late Night,Central Hub,4.0,10.0,Yes,UPI,Cancelled,0.23333333333333334,982.0,1,1859.0,1,High,Medium
+543,57.0,1001,6.0,2.0,57.0,0,Late Night,unknown,4.0,8.0,No,UPI,Delivered,0.03508771929824561,166.83333333333334,1,944.0,0,Medium,Near
+546,16.0,81,5.0,2.0,96.0,0,Late Night,North Hub,2.0,5.0,No,UPI,Delivered,0.125,16.2,0,-15.0,0,Low,Near
+553,38.0,1217,15.0,7.0,38.0,0,Late Night,South Hub,4.0,10.0,No,UPI,Delivered,0.18421052631578946,81.13333333333334,1,1179.0,0,Medium,Medium
+555,58.0,1092,16.0,6.0,117.0,1,Late Night,unknown,7.0,10.0,unknown,UPI,Cancelled,0.10344827586206896,68.25,1,975.0,1,Medium,Medium
+557,29.0,818,14.0,6.0,86.0,1,Late Night,East Hub,5.0,10.0,Yes,UPI,Delivered,0.20689655172413793,58.42857142857143,1,732.0,0,Medium,Medium
+561,5.0,1059,13.0,2.0,28.0,0,Evening,South Hub,1.0,3.0,No,UPI,Delivered,0.4,81.46153846153847,0,1031.0,0,Medium,Near
+563,43.0,551,11.0,9.0,140.0,0,Evening,North Hub,2.0,4.0,No,Card,Delivered,0.20930232558139536,50.09090909090909,1,411.0,0,Low,Medium
+565,26.0,1186,15.0,3.0,115.0,0,unknown,South Hub,1.0,2.0,unknown,UPI,Delivered,0.11538461538461539,79.06666666666666,1,1071.0,0,Medium,Near
+568,7.0,1751,4.0,13.0,44.0,0,Late Night,West Hub,3.0,4.0,unknown,UPI,Delivered,1.8571428571428572,437.75,0,1707.0,0,High,Far
+570,30.0,880,19.0,5.0,103.0,0,Late Night,Central Hub,2.0,1.0,No,UPI,Delivered,0.16666666666666666,46.31578947368421,1,777.0,0,Medium,Near
+576,33.0,1944,2.0,3.0,149.0,1,Late Night,South Hub,4.0,8.0,No,unknown,Delivered,0.09090909090909091,972.0,1,1795.0,0,High,Near
+578,32.0,849,4.0,9.0,125.0,0,Afternoon,South Hub,7.0,2.0,No,unknown,Delivered,0.28125,212.25,1,724.0,0,Medium,Medium
+582,34.0,211,14.0,3.0,27.0,0,Morning,East Hub,1.0,3.0,Yes,Card,Delivered,0.08823529411764706,15.071428571428571,1,184.0,0,Low,Near
+583,50.0,1453,15.0,3.0,10.0,0,Late Night,South Hub,5.0,10.0,No,UPI,Delivered,0.06,96.86666666666666,1,1443.0,0,High,Near
+587,20.0,1873,10.0,8.0,117.0,0,Late Night,South Hub,4.0,2.0,Yes,UPI,Delivered,0.4,187.3,0,1756.0,0,High,Medium
+588,30.0,1251,4.0,11.0,142.0,1,unknown,East Hub,4.0,2.0,No,unknown,Delivered,0.36666666666666664,312.75,1,1109.0,0,Medium,Far
+592,43.0,882,13.0,7.0,106.0,0,unknown,West Hub,2.0,4.0,unknown,UPI,Delivered,0.16279069767441862,67.84615384615384,1,776.0,0,Medium,Medium
+595,34.0,1908,7.0,7.0,18.0,1,unknown,unknown,10.0,2.0,No,UPI,Cancelled,0.20588235294117646,272.57142857142856,1,1890.0,1,High,Medium
+596,41.0,492,12.0,4.0,73.0,0,Late Night,South Hub,4.0,10.0,Yes,Card,Cancelled,0.0975609756097561,41.0,1,419.0,1,Low,Near
+597,27.0,1840,10.0,5.0,97.0,0,Afternoon,West Hub,2.0,4.0,No,UPI,Delivered,0.18518518518518517,184.0,1,1743.0,0,High,Near
+601,9.0,1312,17.0,10.0,47.0,1,Afternoon,South Hub,7.0,5.0,No,COD,Delivered,1.1111111111111112,77.17647058823529,0,1265.0,0,Medium,Medium
+603,38.0,628,10.0,3.0,60.0,1,Evening,South Hub,3.0,2.0,No,UPI,Cancelled,0.07894736842105263,62.8,1,568.0,1,Low,Near
+604,56.0,1124,4.0,11.0,38.0,1,Late Night,East Hub,2.0,10.0,No,UPI,Delivered,0.19642857142857142,281.0,1,1086.0,0,Medium,Far
+606,14.0,1677,4.0,11.0,87.0,0,Morning,South Hub,2.0,3.0,unknown,UPI,Delivered,0.7857142857142857,419.25,0,1590.0,0,High,Far
+611,5.0,145,10.0,8.0,68.0,0,Afternoon,unknown,4.0,5.0,No,unknown,Cancelled,1.6,14.5,0,77.0,1,Low,Medium
+615,8.0,1193,9.0,6.0,57.0,0,Late Night,East Hub,5.0,4.0,unknown,UPI,Cancelled,0.75,132.55555555555554,0,1136.0,1,Medium,Medium
+616,20.0,863,9.0,1.0,48.0,1,unknown,unknown,10.0,2.0,No,COD,Cancelled,0.05,95.88888888888889,0,815.0,1,Medium,Near
+617,28.0,540,15.0,4.0,102.0,1,Late Night,East Hub,2.0,1.0,unknown,unknown,Delivered,0.14285714285714285,36.0,1,438.0,0,Low,Near
+622,32.0,231,17.0,3.0,130.0,0,Morning,unknown,1.0,10.0,unknown,UPI,Delivered,0.09375,13.588235294117647,1,101.0,0,Low,Near
+623,36.0,518,5.0,11.0,28.0,0,Afternoon,North Hub,3.0,8.0,No,COD,Delivered,0.3055555555555556,103.6,1,490.0,0,Low,Far
+624,31.0,959,4.0,13.0,116.0,0,Morning,Central Hub,2.0,10.0,No,unknown,Delivered,0.41935483870967744,239.75,1,843.0,0,Medium,Far
+625,24.0,784,18.0,4.0,25.0,0,Afternoon,South Hub,3.0,10.0,No,UPI,Delivered,0.16666666666666666,43.55555555555556,1,759.0,0,Medium,Near
+630,37.0,824,18.0,6.0,72.0,0,Morning,South Hub,4.0,1.0,Yes,UPI,Delivered,0.16216216216216217,45.77777777777778,1,752.0,0,Medium,Medium
+632,55.0,200,4.0,10.0,55.0,1,Late Night,West Hub,3.0,3.0,unknown,unknown,Cancelled,0.18181818181818182,50.0,1,145.0,1,Low,Medium
+633,47.0,1158,10.0,5.0,64.0,0,Late Night,South Hub,7.0,5.0,No,UPI,Delivered,0.10638297872340426,115.8,1,1094.0,0,Medium,Near
+634,41.0,196,1.0,5.0,92.0,0,unknown,unknown,3.0,1.0,unknown,unknown,Delivered,0.12195121951219512,196.0,1,104.0,0,Low,Near
+636,7.0,1454,5.0,5.0,79.0,1,Late Night,North Hub,7.0,8.0,No,UPI,Delivered,0.7142857142857143,290.8,0,1375.0,0,High,Near
+638,37.0,1621,17.0,6.0,117.0,1,Evening,South Hub,2.0,4.0,Yes,UPI,Cancelled,0.16216216216216217,95.3529411764706,1,1504.0,1,High,Medium
+641,47.0,131,2.0,9.0,14.0,0,Morning,Central Hub,2.0,10.0,unknown,Card,Cancelled,0.19148936170212766,65.5,1,117.0,1,Low,Medium
+646,35.0,1989,5.0,13.0,145.0,0,unknown,East Hub,2.0,8.0,unknown,Card,Delivered,0.37142857142857144,397.8,1,1844.0,0,High,Far
+651,39.0,756,10.0,9.0,5.0,0,Late Night,Central Hub,7.0,1.0,No,COD,Delivered,0.23076923076923078,75.6,1,751.0,0,Medium,Medium
+655,12.0,1605,2.0,13.0,115.0,0,Late Night,East Hub,10.0,5.0,No,UPI,Delivered,1.0833333333333333,802.5,0,1490.0,0,High,Far
+656,33.0,310,3.0,3.0,56.0,0,Late Night,South Hub,5.0,3.0,Yes,UPI,Delivered,0.09090909090909091,103.33333333333333,1,254.0,0,Low,Near
+659,30.0,1329,18.0,13.0,65.0,1,Morning,South Hub,1.0,4.0,No,COD,Delivered,0.43333333333333335,73.83333333333333,1,1264.0,0,Medium,Far
+663,11.0,1126,9.0,12.0,19.0,0,Evening,South Hub,2.0,2.0,No,UPI,Delivered,1.0909090909090908,125.11111111111111,0,1107.0,0,Medium,Far
+664,8.0,989,17.0,11.0,122.0,1,Morning,North Hub,2.0,8.0,No,Card,Delivered,1.375,58.1764705882353,0,867.0,0,Medium,Far
+667,54.0,1579,14.0,1.0,2.0,0,Morning,unknown,10.0,3.0,No,unknown,Delivered,0.018518518518518517,112.78571428571429,1,1577.0,0,High,Near
+668,49.0,903,19.0,3.0,63.0,0,Morning,South Hub,4.0,8.0,unknown,COD,Delivered,0.061224489795918366,47.526315789473685,1,840.0,0,Medium,Near
+672,40.0,763,7.0,11.0,131.0,0,Afternoon,South Hub,10.0,5.0,No,UPI,Cancelled,0.275,109.0,1,632.0,1,Medium,Far
+673,29.0,1231,13.0,4.0,59.0,0,Late Night,South Hub,2.0,8.0,No,UPI,Delivered,0.13793103448275862,94.6923076923077,1,1172.0,0,Medium,Near
+677,14.0,177,5.0,8.0,106.0,0,unknown,South Hub,4.0,1.0,Yes,UPI,Cancelled,0.5714285714285714,35.4,0,71.0,1,Low,Medium
+680,28.0,1955,3.0,8.0,129.0,0,unknown,West Hub,3.0,1.0,No,Card,Delivered,0.2857142857142857,651.6666666666666,1,1826.0,0,High,Medium
+681,39.0,1188,9.0,5.0,61.0,0,Afternoon,South Hub,5.0,2.0,No,COD,Delivered,0.1282051282051282,132.0,1,1127.0,0,Medium,Near
+683,39.0,575,1.0,5.0,136.0,0,Morning,Central Hub,3.0,2.0,No,UPI,Delivered,0.1282051282051282,575.0,1,439.0,0,Low,Near
+685,40.0,601,9.0,2.0,123.0,0,Afternoon,South Hub,10.0,10.0,No,COD,Delivered,0.05,66.77777777777777,1,478.0,0,Low,Near
+686,22.0,286,7.0,11.0,60.0,0,Afternoon,West Hub,3.0,10.0,No,Card,Delivered,0.5,40.857142857142854,1,226.0,0,Low,Far
+687,53.0,1354,4.0,13.0,47.0,0,Late Night,unknown,2.0,4.0,unknown,Card,Cancelled,0.24528301886792453,338.5,1,1307.0,1,High,Far
+691,27.0,1351,5.0,7.0,111.0,0,Late Night,South Hub,3.0,2.0,Yes,unknown,Delivered,0.25925925925925924,270.2,1,1240.0,0,High,Medium
+692,36.0,1308,12.0,5.0,61.0,0,Late Night,South Hub,5.0,10.0,Yes,UPI,Delivered,0.1388888888888889,109.0,1,1247.0,0,Medium,Near
+694,16.0,53,8.0,9.0,57.0,0,Morning,unknown,1.0,1.0,No,COD,Delivered,0.5625,6.625,0,-4.0,0,Low,Medium
+695,53.0,715,6.0,14.0,98.0,0,Late Night,East Hub,7.0,3.0,unknown,COD,Cancelled,0.2641509433962264,119.16666666666667,1,617.0,1,Medium,Far
+697,17.0,78,18.0,6.0,28.0,0,unknown,South Hub,10.0,3.0,No,UPI,Delivered,0.35294117647058826,4.333333333333333,0,50.0,0,Low,Medium
+700,39.0,1800,3.0,12.0,91.0,0,Late Night,North Hub,5.0,1.0,unknown,UPI,Delivered,0.3076923076923077,600.0,1,1709.0,0,High,Far
+701,45.0,854,6.0,12.0,8.0,0,Morning,Central Hub,1.0,5.0,Yes,unknown,Delivered,0.26666666666666666,142.33333333333334,1,846.0,0,Medium,Far
+705,24.0,177,6.0,11.0,143.0,0,unknown,East Hub,7.0,5.0,No,Card,Delivered,0.4583333333333333,29.5,1,34.0,0,Low,Far
+711,53.0,83,12.0,14.0,61.0,0,unknown,East Hub,1.0,10.0,No,UPI,Delivered,0.2641509433962264,6.916666666666667,1,22.0,0,Low,Far
+716,16.0,1451,16.0,7.0,15.0,0,unknown,unknown,1.0,8.0,No,COD,Delivered,0.4375,90.6875,0,1436.0,0,High,Medium
+720,18.0,1947,17.0,9.0,56.0,0,Morning,Central Hub,10.0,1.0,No,unknown,Cancelled,0.5,114.52941176470588,0,1891.0,1,High,Medium
+721,35.0,391,16.0,8.0,39.0,0,Late Night,unknown,2.0,3.0,No,UPI,Delivered,0.22857142857142856,24.4375,1,352.0,0,Low,Medium
+730,16.0,1822,5.0,5.0,139.0,1,unknown,South Hub,7.0,4.0,No,Card,Delivered,0.3125,364.4,0,1683.0,0,High,Near
+737,20.0,1030,6.0,3.0,127.0,1,Afternoon,West Hub,2.0,5.0,unknown,UPI,Delivered,0.15,171.66666666666666,0,903.0,0,Medium,Near
+739,43.0,751,8.0,10.0,37.0,0,Late Night,West Hub,5.0,8.0,No,unknown,Delivered,0.23255813953488372,93.875,1,714.0,0,Medium,Medium
+741,57.0,1631,1.0,12.0,128.0,0,unknown,South Hub,5.0,1.0,Yes,Card,Delivered,0.21052631578947367,1631.0,1,1503.0,0,High,Far
+744,43.0,1069,12.0,3.0,109.0,0,Evening,South Hub,4.0,1.0,Yes,UPI,Cancelled,0.06976744186046512,89.08333333333333,1,960.0,1,Medium,Near
+750,27.0,1365,1.0,8.0,131.0,0,Morning,East Hub,3.0,1.0,No,UPI,Delivered,0.2962962962962963,1365.0,1,1234.0,0,High,Medium
+752,47.0,843,13.0,7.0,118.0,0,Afternoon,South Hub,3.0,8.0,unknown,Card,Cancelled,0.14893617021276595,64.84615384615384,1,725.0,1,Medium,Medium
+756,16.0,1369,2.0,5.0,83.0,1,Late Night,East Hub,1.0,1.0,unknown,COD,Cancelled,0.3125,684.5,0,1286.0,1,High,Near
+757,13.0,60,9.0,1.0,27.0,0,Afternoon,South Hub,3.0,5.0,No,COD,Cancelled,0.07692307692307693,6.666666666666667,0,33.0,1,Low,Near
+760,48.0,1186,3.0,13.0,62.0,0,Afternoon,South Hub,7.0,1.0,Yes,unknown,Delivered,0.2708333333333333,395.3333333333333,1,1124.0,0,Medium,Far
+762,42.0,856,4.0,8.0,69.0,1,Afternoon,South Hub,4.0,2.0,unknown,UPI,Delivered,0.19047619047619047,214.0,1,787.0,0,Medium,Medium
+763,11.0,793,18.0,5.0,124.0,1,Evening,South Hub,5.0,3.0,No,UPI,Delivered,0.45454545454545453,44.05555555555556,0,669.0,0,Medium,Near
+764,50.0,1300,6.0,9.0,148.0,1,Late Night,East Hub,3.0,1.0,No,Card,Delivered,0.18,216.66666666666666,1,1152.0,0,Medium,Medium
+766,44.0,147,11.0,4.0,78.0,0,unknown,South Hub,4.0,10.0,Yes,unknown,Delivered,0.09090909090909091,13.363636363636363,1,69.0,0,Low,Near
+767,46.0,104,15.0,3.0,4.0,0,Evening,South Hub,5.0,5.0,No,Card,Delivered,0.06521739130434782,6.933333333333334,1,100.0,0,Low,Near
+768,13.0,672,5.0,2.0,59.0,0,Late Night,unknown,1.0,2.0,Yes,UPI,Delivered,0.15384615384615385,134.4,0,613.0,0,Low,Near
+772,6.0,118,15.0,14.0,55.0,0,Late Night,South Hub,5.0,4.0,No,UPI,Delivered,2.3333333333333335,7.866666666666666,0,63.0,0,Low,Far
+774,33.0,1362,10.0,4.0,103.0,0,Morning,West Hub,3.0,2.0,unknown,UPI,Delivered,0.12121212121212122,136.2,1,1259.0,0,High,Near
+776,42.0,1621,18.0,11.0,145.0,0,Morning,Central Hub,4.0,1.0,unknown,UPI,Delivered,0.2619047619047619,90.05555555555556,1,1476.0,0,High,Far
+777,23.0,800,13.0,3.0,1.0,0,Late Night,South Hub,7.0,4.0,Yes,Card,Cancelled,0.13043478260869565,61.53846153846154,1,799.0,1,Medium,Near
+778,12.0,1221,3.0,8.0,7.0,0,Evening,East Hub,3.0,4.0,Yes,UPI,Delivered,0.6666666666666666,407.0,0,1214.0,0,Medium,Medium
+781,5.0,1317,6.0,13.0,37.0,1,Evening,West Hub,1.0,3.0,No,UPI,Cancelled,2.6,219.5,0,1280.0,1,Medium,Far
+784,21.0,1007,7.0,13.0,139.0,0,Late Night,South Hub,10.0,8.0,unknown,unknown,Cancelled,0.6190476190476191,143.85714285714286,1,868.0,1,Medium,Far
+788,8.0,250,15.0,8.0,60.0,0,Late Night,South Hub,3.0,2.0,No,Card,Delivered,1.0,16.666666666666668,0,190.0,0,Low,Medium
+790,10.0,1523,3.0,2.0,90.0,0,Afternoon,East Hub,3.0,2.0,No,UPI,Delivered,0.2,507.6666666666667,0,1433.0,0,High,Near
+793,48.0,762,3.0,6.0,143.0,0,Evening,South Hub,5.0,10.0,No,Card,Cancelled,0.125,254.0,1,619.0,1,Medium,Medium
+794,58.0,345,18.0,2.0,12.0,0,Afternoon,South Hub,3.0,2.0,unknown,UPI,Cancelled,0.034482758620689655,19.166666666666668,1,333.0,1,Low,Near
+799,23.0,988,2.0,7.0,34.0,0,Afternoon,North Hub,7.0,3.0,unknown,Card,Delivered,0.30434782608695654,494.0,1,954.0,0,Medium,Medium
+802,49.0,74,14.0,14.0,113.0,0,Morning,East Hub,1.0,4.0,unknown,COD,Delivered,0.2857142857142857,5.285714285714286,1,-39.0,0,Low,Far
+803,17.0,1112,1.0,7.0,99.0,0,Late Night,South Hub,5.0,4.0,No,COD,Delivered,0.4117647058823529,1112.0,0,1013.0,0,Medium,Medium
+805,32.0,180,16.0,1.0,2.0,1,Late Night,West Hub,7.0,2.0,unknown,UPI,Delivered,0.03125,11.25,1,178.0,0,Low,Near
+808,32.0,157,3.0,13.0,137.0,0,Morning,West Hub,10.0,2.0,No,COD,Cancelled,0.40625,52.333333333333336,1,20.0,1,Low,Far
+810,45.0,1508,9.0,10.0,24.0,0,Late Night,West Hub,3.0,3.0,unknown,COD,Cancelled,0.2222222222222222,167.55555555555554,1,1484.0,1,High,Medium
+811,43.0,1551,6.0,10.0,67.0,0,Evening,West Hub,7.0,8.0,No,COD,Delivered,0.23255813953488372,258.5,1,1484.0,0,High,Medium
+812,5.0,151,13.0,4.0,60.0,0,Afternoon,North Hub,2.0,4.0,Yes,UPI,Cancelled,0.8,11.615384615384615,0,91.0,1,Low,Near
+815,32.0,324,8.0,14.0,18.0,0,Afternoon,South Hub,7.0,8.0,Yes,UPI,Cancelled,0.4375,40.5,1,306.0,1,Low,Far
+823,10.0,1896,13.0,12.0,109.0,0,Afternoon,East Hub,10.0,8.0,No,UPI,Cancelled,1.2,145.84615384615384,0,1787.0,1,High,Far
+827,36.0,1391,6.0,2.0,50.0,0,Evening,West Hub,3.0,3.0,No,UPI,Delivered,0.05555555555555555,231.83333333333334,1,1341.0,0,High,Near
+830,25.0,388,19.0,12.0,49.0,0,Late Night,East Hub,2.0,8.0,Yes,unknown,Delivered,0.48,20.42105263157895,1,339.0,0,Low,Far
+835,41.0,1558,10.0,6.0,138.0,1,unknown,South Hub,7.0,3.0,Yes,Card,Delivered,0.14634146341463414,155.8,1,1420.0,0,High,Medium
+839,24.0,1273,15.0,9.0,74.0,0,Evening,East Hub,4.0,2.0,Yes,COD,Delivered,0.375,84.86666666666666,1,1199.0,0,Medium,Medium
+846,19.0,1995,14.0,9.0,82.0,1,Late Night,Central Hub,2.0,5.0,No,COD,Delivered,0.47368421052631576,142.5,0,1913.0,0,High,Medium
+861,12.0,440,4.0,10.0,11.0,0,unknown,East Hub,5.0,2.0,unknown,UPI,Delivered,0.8333333333333334,110.0,0,429.0,0,Low,Medium
+864,28.0,678,18.0,13.0,19.0,0,Late Night,South Hub,7.0,10.0,No,COD,Delivered,0.4642857142857143,37.666666666666664,1,659.0,0,Low,Far
+867,12.0,932,3.0,12.0,93.0,0,Late Night,South Hub,3.0,3.0,Yes,COD,Delivered,1.0,310.6666666666667,0,839.0,0,Medium,Far
+870,40.0,1571,7.0,4.0,36.0,0,Morning,Central Hub,5.0,3.0,No,UPI,Delivered,0.1,224.42857142857142,1,1535.0,0,High,Near
+875,32.0,1296,6.0,10.0,107.0,0,Late Night,unknown,10.0,1.0,Yes,unknown,Cancelled,0.3125,216.0,1,1189.0,1,Medium,Medium
+879,40.0,1044,7.0,7.0,7.0,0,Evening,Central Hub,2.0,5.0,No,COD,Delivered,0.175,149.14285714285714,1,1037.0,0,Medium,Medium
+880,31.0,451,5.0,9.0,28.0,1,Afternoon,unknown,4.0,4.0,unknown,UPI,Delivered,0.2903225806451613,90.2,1,423.0,0,Low,Medium
+881,58.0,1516,1.0,3.0,39.0,1,Late Night,Central Hub,7.0,3.0,Yes,UPI,Cancelled,0.05172413793103448,1516.0,1,1477.0,1,High,Near
+885,57.0,1599,13.0,14.0,143.0,1,Morning,East Hub,10.0,4.0,No,UPI,Cancelled,0.24561403508771928,123.0,1,1456.0,1,High,Far
+888,32.0,1044,18.0,9.0,44.0,0,Late Night,South Hub,2.0,5.0,unknown,Card,Delivered,0.28125,58.0,1,1000.0,0,Medium,Medium
+889,52.0,669,5.0,7.0,87.0,1,Late Night,South Hub,2.0,4.0,Yes,COD,Delivered,0.1346153846153846,133.8,1,582.0,0,Low,Medium
+890,33.0,237,13.0,9.0,72.0,0,Morning,East Hub,4.0,4.0,No,UPI,Cancelled,0.2727272727272727,18.23076923076923,1,165.0,1,Low,Medium
+891,17.0,1886,4.0,13.0,36.0,0,unknown,North Hub,1.0,4.0,No,UPI,Delivered,0.7647058823529411,471.5,0,1850.0,0,High,Far
+899,29.0,1032,4.0,9.0,123.0,0,Afternoon,West Hub,7.0,3.0,unknown,UPI,Delivered,0.3103448275862069,258.0,1,909.0,0,Medium,Medium
+900,6.0,413,2.0,6.0,52.0,0,Afternoon,West Hub,4.0,1.0,Yes,UPI,Delivered,1.0,206.5,0,361.0,0,Low,Medium
+905,49.0,1589,3.0,13.0,41.0,0,Late Night,South Hub,7.0,1.0,No,Card,Cancelled,0.2653061224489796,529.6666666666666,1,1548.0,1,High,Far
+906,9.0,1422,9.0,13.0,93.0,0,Late Night,North Hub,5.0,4.0,Yes,unknown,Cancelled,1.4444444444444444,158.0,0,1329.0,1,High,Far
+911,5.0,1234,10.0,4.0,107.0,1,unknown,East Hub,1.0,1.0,No,Card,Delivered,0.8,123.4,0,1127.0,0,Medium,Near
+914,51.0,1499,9.0,6.0,19.0,0,Late Night,South Hub,1.0,3.0,No,UPI,Cancelled,0.11764705882352941,166.55555555555554,1,1480.0,1,High,Medium
+915,53.0,1181,17.0,12.0,49.0,0,unknown,West Hub,4.0,4.0,Yes,COD,Delivered,0.22641509433962265,69.47058823529412,1,1132.0,0,Medium,Far
+916,15.0,943,9.0,12.0,101.0,0,Late Night,South Hub,3.0,5.0,No,UPI,Delivered,0.8,104.77777777777777,0,842.0,0,Medium,Far
+917,25.0,1523,9.0,8.0,137.0,0,unknown,South Hub,5.0,1.0,Yes,Card,Delivered,0.32,169.22222222222223,1,1386.0,0,High,Medium
+918,30.0,360,1.0,1.0,51.0,0,unknown,East Hub,7.0,1.0,No,COD,Delivered,0.03333333333333333,360.0,1,309.0,0,Low,Near
+919,29.0,788,2.0,4.0,14.0,1,unknown,South Hub,10.0,3.0,unknown,UPI,Cancelled,0.13793103448275862,394.0,1,774.0,1,Medium,Near
+921,31.0,595,1.0,3.0,130.0,0,Evening,East Hub,7.0,1.0,No,UPI,Cancelled,0.0967741935483871,595.0,1,465.0,1,Low,Near
+922,53.0,463,10.0,13.0,36.0,0,unknown,East Hub,1.0,2.0,unknown,UPI,Delivered,0.24528301886792453,46.3,1,427.0,0,Low,Far
+924,37.0,808,8.0,10.0,39.0,0,Afternoon,South Hub,10.0,1.0,unknown,UPI,Delivered,0.2702702702702703,101.0,1,769.0,0,Medium,Medium
+932,10.0,1112,17.0,2.0,135.0,0,Afternoon,Central Hub,3.0,4.0,No,unknown,Delivered,0.2,65.41176470588235,0,977.0,0,Medium,Near
+934,21.0,78,19.0,4.0,93.0,0,Late Night,South Hub,5.0,10.0,Yes,Card,Cancelled,0.19047619047619047,4.105263157894737,1,-15.0,1,Low,Near
+936,35.0,526,12.0,10.0,59.0,0,Morning,unknown,4.0,3.0,Yes,Card,Delivered,0.2857142857142857,43.833333333333336,1,467.0,0,Low,Medium
+940,57.0,746,13.0,6.0,48.0,0,Evening,South Hub,5.0,1.0,Yes,UPI,Delivered,0.10526315789473684,57.38461538461539,1,698.0,0,Medium,Medium
+944,41.0,1312,13.0,4.0,100.0,0,unknown,South Hub,10.0,2.0,No,UPI,Delivered,0.0975609756097561,100.92307692307692,1,1212.0,0,Medium,Near
+946,14.0,315,3.0,1.0,85.0,0,Morning,East Hub,1.0,8.0,Yes,COD,Cancelled,0.07142857142857142,105.0,0,230.0,1,Low,Near
+958,5.0,1743,7.0,7.0,45.0,0,Late Night,unknown,5.0,4.0,No,UPI,Delivered,1.4,249.0,0,1698.0,0,High,Medium
+961,36.0,342,11.0,12.0,127.0,0,Morning,South Hub,4.0,2.0,Yes,COD,Delivered,0.3333333333333333,31.09090909090909,1,215.0,0,Low,Far
+964,35.0,754,8.0,11.0,111.0,0,Late Night,South Hub,1.0,8.0,No,unknown,Delivered,0.3142857142857143,94.25,1,643.0,0,Medium,Far
+965,12.0,998,10.0,4.0,59.0,0,Late Night,Central Hub,7.0,1.0,Yes,UPI,Cancelled,0.3333333333333333,99.8,0,939.0,1,Medium,Near
+967,30.0,448,15.0,7.0,144.0,1,Afternoon,South Hub,5.0,1.0,unknown,UPI,Cancelled,0.23333333333333334,29.866666666666667,1,304.0,1,Low,Medium
+972,7.0,1213,9.0,8.0,21.0,1,Late Night,South Hub,7.0,10.0,No,UPI,Delivered,1.1428571428571428,134.77777777777777,0,1192.0,0,Medium,Medium
+973,54.0,236,2.0,1.0,140.0,1,Afternoon,South Hub,10.0,3.0,No,UPI,Delivered,0.018518518518518517,118.0,1,96.0,0,Low,Near
+974,16.0,1878,15.0,8.0,88.0,0,Morning,North Hub,1.0,5.0,unknown,Card,Delivered,0.5,125.2,0,1790.0,0,High,Medium
+975,5.0,110,18.0,13.0,17.0,1,Late Night,South Hub,10.0,8.0,No,Card,Delivered,2.6,6.111111111111111,0,93.0,0,Low,Far
+976,58.0,988,3.0,4.0,114.0,0,Late Night,West Hub,4.0,4.0,No,UPI,Delivered,0.06896551724137931,329.3333333333333,1,874.0,0,Medium,Near
+977,48.0,1453,17.0,8.0,144.0,0,Late Night,South Hub,10.0,5.0,No,UPI,Delivered,0.16666666666666666,85.47058823529412,1,1309.0,0,High,Medium
+982,21.0,1375,9.0,13.0,12.0,1,Morning,unknown,2.0,2.0,No,UPI,Delivered,0.6190476190476191,152.77777777777777,1,1363.0,0,High,Far
+987,41.0,275,12.0,9.0,147.0,0,Morning,unknown,4.0,3.0,unknown,unknown,Cancelled,0.21951219512195122,22.916666666666668,1,128.0,1,Low,Medium
+992,55.0,1644,16.0,9.0,70.0,1,Morning,South Hub,3.0,1.0,Yes,COD,Cancelled,0.16363636363636364,102.75,1,1574.0,1,High,Medium
+994,42.0,1733,11.0,12.0,17.0,0,Late Night,East Hub,7.0,3.0,No,COD,Delivered,0.2857142857142857,157.54545454545453,1,1716.0,0,High,Far
+996,42.0,1648,15.0,10.0,38.0,0,Late Night,East Hub,7.0,10.0,No,UPI,Delivered,0.23809523809523808,109.86666666666666,1,1610.0,0,High,Medium
+997,54.0,1383,17.0,10.0,88.0,0,Afternoon,South Hub,3.0,8.0,No,UPI,Cancelled,0.18518518518518517,81.3529411764706,1,1295.0,1,High,Medium
+998,38.0,934,8.0,13.0,61.0,1,Afternoon,West Hub,5.0,4.0,Yes,UPI,Delivered,0.34210526315789475,116.75,1,873.0,0,Medium,Far
+999,22.0,1316,18.0,11.0,140.0,0,Afternoon,South Hub,5.0,1.0,Yes,Card,Delivered,0.5,73.11111111111111,1,1176.0,0,Medium,Far
+1000,34.0,1566,9.0,13.0,108.0,0,Late Night,East Hub,2.0,10.0,No,UPI,Cancelled,0.38235294117647056,174.0,1,1458.0,1,High,Far
